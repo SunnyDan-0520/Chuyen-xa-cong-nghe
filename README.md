@@ -1,15 +1,13 @@
-<h1> CHUYẾN XE CÔNG NGHỆ <\h1>
+<html>
+<h1> CHUYẾN XE CÔNG NGHỆ </h1>
      <title>Chuyến xe công nghệ - Nhóm CoVy - SS004.K21.CLC</title>
-<head>
-     <title>Mục đích: </title>
-</head>
-<h1>MANG CÔNG NGHỆ ĐẾN GẦN VỚI TRẺ EM VÙNG KHÓ KHĂN </h1>
+     <title> Mục đích: </title>
+<h1> MANG CÔNG NGHỆ ĐẾN GẦN VỚI TRẺ EM VÙNG KHÓ KHĂN </h1>
      <body>
-          <p> Danh sách thanh viên trong nhóm: 
-               Nguyễn Phạm Nhật Trường
-               Lê Thị Minh Ánh
-               Mai Trúc Anh
-               Đặng Xuân Mai
-          </p>
+          <p> Danh sách thanh viên trong nhóm: </p>
+          <p> Nguyễn Phạm Nhật Trường </p>
+          <p> Lê Thị Minh Ánh </p>
+          <p> Mai Trúc Anh </p>
      </body>
+</html>
     
