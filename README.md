@@ -5,15 +5,15 @@
 <body>
      <p> Đem các máy móc công nghệ mới đến cho các em nhỏ ở vùng xa chưa được tiếp xúc nhiều với công nghê, giúp các em phát triển hơn, có thể hòa nhập với sự phát triển của thời đại công nghệ hiện nay. </P>
 </body>
-<h3> THỜI GIAN, TIÊN ĐỘ THỰC HIỆN DỰ ÁN </h3>
+<h2> THỜI GIAN, TIÊN ĐỘ THỰC HIỆN DỰ ÁN </h2>
      <body>
      <p>..................</p>
      </body>
-<h4> KẾ HOACH TÀI CHÍNH </h4>
+<h2> KẾ HOACH TÀI CHÍNH </h2>
      <body>
      <p>..................</p>
      </body>
-<h5> KẾ HOẠCH MARKETING </h5>
+<h2> KẾ HOẠCH MARKETING </h2>
      <body>
      <p>..................</p>
      </body>
