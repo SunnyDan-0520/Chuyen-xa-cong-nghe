@@ -1,7 +1,7 @@
 <html>
 <h1> CHUYẾN XE CÔNG NGHỆ </h1>
      <em> <title>Chuyến xe công nghệ - Nhóm CoVy - SS004.K21.CLC</title> </em>
-     <img src = "14.JPG" width = "300" height = "300">
+     <p align = "center"> <img src = "14.JPG" width = "300" height = "300"> </p>
 <h2> NỘI DUNG THỰC HIỆN DỰ ÁN </h2>
 <body>
      <p> Đem các máy móc công nghệ mới đến cho các em nhỏ ở vùng xa chưa được tiếp xúc nhiều với công nghệ, giúp các em phát triển hơn, có thể hòa nhập với sự phát triển của thời đại công nghệ hiện nay. </P>
