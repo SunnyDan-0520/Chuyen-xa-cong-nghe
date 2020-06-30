@@ -9,8 +9,18 @@
      <body>
      <p>..................</p>
      </body>
-<h2> KẾ HOACH TÀI CHÍNH </h2>
+<h2> KẾ HOẠCH TÀI CHÍNH </h2>
      <body>
+     <h3> Nguồn thu: </h3>
+     <p> Áo cho các bạn tình nguyện viên: 120.000đ/ 1 áo (Nếu chi phí còn dư sau dự án thì sẽ có thể dùng áo làm quà tặng các bạn tình nguyện viên) </p>
+     <p> Nguồn vốn kêu gọi từ các nhà đầu tư về máy móc và phương tiện đi lại </p>
+     <p> Các máy móc mua về sau đó sẽ có thể bán lại </p>
+     <h3> Nguồn chi: </h3>
+     <p> Chi phí sinh hoạt trong 3 ngày: 2.500.000đ </p>
+     <p> Tiền thuê xe bus: Tùy vào địa điểm xa hay gần (Nếu không kêu gọi được nguồn vốn đầu tư) <\p>
+     <p> Tiền qua tặng các cộng tác viên <\p>
+     <p> Chi phí trong việc gọi vốn và tuyển cộng tác viên <\p>
+     <p> Chi phí sửa chửa máy móc (nếu máy móc bị hỏng) </p>
      <p>..................</p>
      </body>
 <h2> KẾ HOẠCH MARKETING </h2>
