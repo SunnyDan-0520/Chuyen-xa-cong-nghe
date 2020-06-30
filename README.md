@@ -17,9 +17,9 @@
      <p> Các máy móc mua về sau đó sẽ có thể bán lại </p>
      <h3> Nguồn chi: </h3>
      <p> Chi phí sinh hoạt trong 3 ngày: 2.500.000đ </p>
-     <p> Tiền thuê xe bus: Tùy vào địa điểm xa hay gần (Nếu không kêu gọi được nguồn vốn đầu tư) <\p>
-     <p> Tiền qua tặng các cộng tác viên <\p>
-     <p> Chi phí trong việc gọi vốn và tuyển cộng tác viên <\p>
+     <p> Tiền thuê xe bus: Tùy vào địa điểm xa hay gần (Nếu không kêu gọi được nguồn vốn đầu tư) </p>
+     <p> Tiền qua tặng các cộng tác viên </p>
+     <p> Chi phí trong việc gọi vốn và tuyển cộng tác viên </p>
      <p> Chi phí sửa chửa máy móc (nếu máy móc bị hỏng) </p>
      <p>..................</p>
      </body>
