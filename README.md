@@ -24,7 +24,8 @@ tr:nth-child(even) {
           <ul>
                <p> <strong><em>Giai đoạn 1:</em></strong> Lập trang web, page Facebook, đăng bài giới thiệu về dự án (dự án làm về vấn đề gì, đi đến đâu, đang cần gì, giới thiệu trụ sở) trên trang Facebook, kênh Youtube. </p>
                <p> <strong><em>Giai đoạn 2:</em></strong> Mua các trang thiết bị công nghệ cho dự án như ipad, laptop, máy ảnh, kính VR và kêu gọi vốn tài trợ từ một số nguồn trong và ngoài trường. </p>
-               <p align = "center"> <img src = "10.JPG" width = "400" height = "300"> <img src = "IMG_1255.JPG" width = "400" height = "300"> </p>
+               <p align = "center"> <img src = "10.JPG" width = "400" height = "300"> </p> 
+               <p align = "center"> <img src = "IMG_1255.JPG" width = "400" height = "300"> </p>
                <p> <strong><em>Giai đoạn 3:</em></strong> Liên hệ trường để xin phép thực hiện dự án.</p>
                <p> <strong><em>Giai đoạn 4:</em></strong> Liên hệ với các đơn vị trường lớp hoặc địa phương nơi mà chúng ta muốn mang dự án “Chuyến xe công nghệ” đến với các em nhỏ.</p>
                <p> <strong><em>Giai đoạn 5:</em></strong> Thực hiện dự án </p>
