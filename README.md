@@ -1,4 +1,23 @@
 <html>
+     <head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: center;
+  padding: 20px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
 <h1> CHUYẾN XE CÔNG NGHỆ </h1>
      <em> <title>Chuyến xe công nghệ - Nhóm CoVy - SS004.K21.CLC</title> </em>
      <p align = "center"> <img src = "14.JPG" width = "400" height = "300">
@@ -34,16 +53,79 @@
                <p>3. Di chuyển đến địa điểm thực hiện dự án bằng xe bus riêng.</p>
                <p>4. Tổ chúc buổi giới thiệu các loại công nghệ tại các trường học cho các em nhỏ ở địa phương đã đến và cho các em trải nghiệm thử. Đối với những vùng đặc biệt khó khăn có thể tặng một số trang thiết bị mới cho các em.</p>   
                 <p align = "center"> <img src = "IMG_1321.JPG" width = "400" height = "300">
-               <img src = "IMG_5541.JPG" width = "400" height = "300"> </p>
+               <img src = "IMG_1286.JPG" width = "400" height = "300"> </p>
      </body>
 <h2> KẾ HOẠCH TÀI CHÍNH CHO MỘT CHƯƠNG TRÌNH CỦA DỰ ÁN </h2>
      <body>
      <p> <b> <i> Nguồn vốn: </i> </b> </p>
      <ol>
-          <li> Nguồn vốn được goi từ các nhà tài trợ về máy móc và phương tiện đi lại. </li>
+          <li> Nguồn vốn được gọi từ các nhà tài trợ về máy móc và phương tiện đi lại. </li>
           <li> Các máy móc nếu mua về sau đó có thể bán lại. </li>
      </ol>
      <p> <b> <i> Nguồn chi: </i> </b> </p>
+     <table>
+  <tr>
+    <th>Việc chi tiêu cho dự án</th>
+    <th>Số lượng</th>
+    <th>Số tiền</th>
+  </tr>
+  <tr>
+    <td>Thuê xe 16 chỗ</td>
+    <td>1 chiếc (1 ngày)</td>
+    <td>3.100.000đ</td>
+  </tr>
+  <tr>
+    <td>Thức ăn, nước uống</td>
+    <td>2 bữa</td>
+    <td>450.000đ</td>
+  </tr>
+  <tr>
+    <td>Dự trù sữa chữa máy móc và chi phí phát sinh</td>
+    <td> </td>
+    <td>5.000.000đ</td>
+  </tr>
+</table> 
+     <p> <i> <b> Tổng cộng: 8.550.000đ </b> </i> </p>
+      <table>
+  <tr>
+    <th>Việc chi tiêu cho công tác tình nguyện</th>
+    <th>Số lượng</th>
+    <th>Số tiền</th>
+  </tr>
+  <tr>
+    <td>Thuê xe 16 chỗ</td>
+    <td>1 chiếc (3 ngày)</td>
+    <td>9.300.000đ</td>
+  </tr>
+  <tr>
+    <td>Thức ăn, nước uống</td>
+    <td>9 bữa</td>
+    <td>2.025.000đ</td>
+  </tr>
+  <tr>
+    <td>Quà tặng khuyến khích các em học sinh học tốt</td>
+    <td>30 phần</td>
+    <td>15.000.000đ</td>
+  </tr>
+  <tr>
+    <td>Ipad (thiết kế tủ sách điện tử)</td>
+    <td>5 thiết bị</td>
+    <td>20.000.000đ</td>
+  </tr>
+  <tr>
+    <td>Dự trù sữa chữa máy móc và chi phí phát sinh</td>
+    <td> </td>
+    <td>5.000.000đ</td>
+  </tr>
+</table>
+     <p> <i> <b> Tổng cộng: 51.325.000đ </b> </i> </p> 
+    <p> <b> <i> Lợi nhuận: </i> </b> </p>
+    <ul>
+         <p> <li> Lợi nhuận thu được từ việc thiết kế và lắp đặt tủ sách điện tử. </li> </p>
+         <p> <li> Tạo hiệu ứng truyền thông báo chí cho dự án và nhà đầu tư. </li> </p>
+     </ul>
+    <p align = "center"> <img src = "IMG_5541.JPG" width = "400" height = "300">
+               <img src = "IMG_5557.JPG" width = "400" height = "300"> </p>
      </body>
 <h2> KẾ HOẠCH MARKETING </h2>
      <body>
