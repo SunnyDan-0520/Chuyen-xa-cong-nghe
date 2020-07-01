@@ -1,5 +1,4 @@
 <html>
-     <head>
 <style>
 table {
   font-family: arial, sans-serif;
@@ -17,9 +16,8 @@ tr:nth-child(even) {
   background-color: #dddddd;
 }
 </style>
-</head>
 <h1> CHUYẾN XE CÔNG NGHỆ </h1>
-     <em> <title>Chuyến xe công nghệ - Nhóm CoVy - SS004.K21.CLC</title> </em>
+     <em> Chuyến xe công nghệ - Nhóm CoVy - SS004.K21.CLC</em>
      <p align = "center"> <img src = "14.JPG" width = "400" height = "300">
      <img src = "IMG_1254 - Copy.JPG" width = "400" height = "300"> </p>
 <h2> THỜI GIAN, TIẾN ĐỘ THỰC HIỆN DỰ ÁN </h2>
