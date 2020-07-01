@@ -33,8 +33,8 @@
                <p>2. Sau khi tuyển Tình Nguyện Viên, các bạn Tình Nguyện Viên sẽ giúp chia sẻ dự án rộng hơn xa hơn, nhiều người biết đến dự án cũng như nhà tài trợ cho dự án. </li> </p>
                <p>3. Di chuyển đến địa điểm thực hiện dự án bằng xe bus riêng.</p>
                <p>4. Tổ chúc buổi giới thiệu các loại công nghệ tại các trường học cho các em nhỏ ở địa phương đã đến và cho các em trải nghiệm thử. Đối với những vùng đặc biệt khó khăn có thể tặng một số trang thiết bị mới cho các em.</p>   
-                <p align = "center"> <img src = "10.JPG" width = "400" height = "300">
-               <img src = "IMG_1255.JPG" width = "400" height = "300"> </p>
+                <p align = "center"> <img src = "IMG_1321.JPG" width = "400" height = "300">
+               <img src = "IMG_5541.JPG" width = "400" height = "300"> </p>
      </body>
 <h2> KẾ HOẠCH TÀI CHÍNH CHO MỘT CHƯƠNG TRÌNH CỦA DỰ ÁN </h2>
      <body>
