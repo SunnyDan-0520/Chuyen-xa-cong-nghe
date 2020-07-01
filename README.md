@@ -17,8 +17,8 @@ tr:nth-child(even) {
 }
 </style>
      <em> Chuyến xe công nghệ - Nhóm Covy - SS004.K21.CLC</em>
-     <p align = "center"> <img src = "14.JPG" width = "400" height = "300">
-     <img src = "IMG_1254 - Copy.JPG" width = "400" height = "300"> </p>
+     <p align = "center"> <img src = "14.JPG" width = "400" height = "300"> </p>
+     <p align = "center"> <img src = "IMG_1254 - Copy.JPG" width = "400" height = "300"> </p>
 <h2> THỜI GIAN, TIẾN ĐỘ THỰC HIỆN DỰ ÁN </h2>
      <body>
           <ul>
@@ -48,8 +48,8 @@ tr:nth-child(even) {
                <p>2. Sau khi tuyển Tình Nguyện Viên, các bạn Tình Nguyện Viên sẽ giúp chia sẻ dự án rộng hơn xa hơn, nhiều người biết đến dự án cũng như nhà tài trợ cho dự án. </p>
                <p>3. Di chuyển đến địa điểm thực hiện dự án bằng xe bus riêng.</p>
                <p>4. Tổ chúc buổi giới thiệu các loại công nghệ tại các trường học cho các em nhỏ ở địa phương đã đến và cho các em trải nghiệm thử. Đối với những vùng đặc biệt khó khăn có thể tặng một số trang thiết bị mới cho các em.</p>   
-                <p align = "center"> <img src = "IMG_1321.JPG" width = "400" height = "300">
-               <img src = "IMG_1286.JPG" width = "400" height = "300"> </p>
+                <p align = "center"> <img src = "IMG_1321.JPG" width = "400" height = "300"> </p>
+                <p align = "center"> <img src = "IMG_1286.JPG" width = "400" height = "300"> </p>
      </body>
 <h2> KẾ HOẠCH TÀI CHÍNH CHO MỘT CHƯƠNG TRÌNH CỦA DỰ ÁN </h2>
      <body>
@@ -120,8 +120,8 @@ tr:nth-child(even) {
          <p> <li> Lợi nhuận thu được từ việc thiết kế và lắp đặt tủ sách điện tử. </li> </p>
          <p> <li> Tạo hiệu ứng truyền thông báo chí cho dự án và nhà đầu tư. </li> </p>
      </ul>
-    <p align = "center"> <img src = "IMG_5541.JPG" width = "400" height = "300">
-               <img src = "IMG_5557.JPG" width = "400" height = "300"> </p>
+  <p align = "center"> <img src = "IMG_5541.JPG" width = "400" height = "300"> </p>
+  <p align = "center"> <img src = "IMG_5557.JPG" width = "400" height = "300"> </p>
      </body>
 <h2> KẾ HOẠCH MARKETING </h2>
      <body>
