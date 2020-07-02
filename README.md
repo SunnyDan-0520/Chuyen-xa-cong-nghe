@@ -16,7 +16,7 @@ tr:nth-child(even) {
   background-color: #dddddd;
 }
 </style>
-     <em> Chuyến xe công nghệ - Nhóm Covy - SS004.K21.CLC</em>
+     <em> App Tôi vì cộng đồng - Nhóm Covy - SS004.K21.CLC</em>
      <p align = "center"> <img src = "app.png"> </p>
      <p align = "center"> <img src = "Artboard 1.png"> </p>
 <h2> THỜI GIAN, TIẾN ĐỘ THỰC HIỆN DỰ ÁN </h2>
