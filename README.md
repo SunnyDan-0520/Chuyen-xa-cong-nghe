@@ -34,7 +34,7 @@ tr:nth-child(even) {
     <li> Chương trình chính: Đăng ký tham gia làm Cộng tác viên với chương trình Tôi vì cộng đồng </li>
   </ul>
   <p align = "left"> <img src = "Artboard 2.png"> </p>
-<h4> <em> Đối tượng là doanh nghiệp: </em> <h4>
+<h4> <em> Đối tượng là doanh nghiệp: </em> </h4>
   <p> Kêu gọi nguồn đầu tư từ các doanh nghiệp. </p>
   <p> Tuyên truyền, quảng bá giúp các doanh nghiệp đã góp phần ủng hộ chương trình. </p>
    <p align = "left"> <img src = "Artboard 3.png"> </p> 
