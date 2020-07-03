@@ -50,8 +50,8 @@ tr:nth-child(even) {
   <p> <strong> Giai đoạn 2: 200.000.000đ </strong> </p>
   <p> <strong> Giai đoạn 3: 500.000.000đ </strong> </p>
   <p> <strong> Giai đoạn 4: 2.000.000.000đ </strong> </p>
-  <p> <em> Sau mỗi giai đoạn sẽ kêu gọi tái đầu tư </em> </p
-  <h3> <strong> Các nhà tài trợ cho chương trình sẽ có những lợi ích tương ứng </strong> </h3>
+  <p> <em> (Sau mỗi giai đoạn sẽ kêu gọi tái đầu tư) </em> </p
+  <h3> Các nhà tài trợ cho chương trình sẽ có những lợi ích tương ứng </h3>
   <h4> Nhà tài trợ vàng </h4>
   <p align = "center"> <img src = "1.PNG"> </p>
   <h4> Nhà tài trợ bạc: </h4>
