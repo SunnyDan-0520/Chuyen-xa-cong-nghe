@@ -24,7 +24,7 @@ tr:nth-child(even) {
 <p align = "center"> <img src = "10.JPG"> </p>
 <p align = "center"> <img src = "18.JPG"> </p>
 <h2> ĐỐI TƯỢNG MÀ DỰ ÁN MUỐN HƯỚNG ĐẾN </h2>
-<h4> <em> Đối tượng là sinh viên: </em> <h4>
+<h4> <em> Đối tượng là sinh viên: </em> </h4>
   <p> Góp phần thúc đẩy sinh viên hăng hái hơn trong các hoạt động tình nguyện, xã hội. </p>
   <p> Liên kết với nhà trường để tích lũy "Điểm rèn luyện" cho sinh viên đơn giản, tiện lợi hơn </p>
   <p align = "left"> <img src = "Artboard 1.png"> </p>
